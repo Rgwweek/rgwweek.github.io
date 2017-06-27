@@ -1,0 +1,809 @@
+@media (max-width: 1199px) {
+    .selection_menu li a {
+        font-size: 20px;
+
+        padding-left: 80px;
+    }
+
+    .selection_menu li .nested a {
+        padding-left: 100px;
+    }
+
+    .selection_right_content_title,
+    .selection_left_content_title {
+        font-size: 22px;
+    }
+
+    .selection_right_content_count,
+    .selection_left_content_count {
+        font-size: 22px;
+        line-height: 1;
+
+        margin: 0;
+    }
+
+    .selection_right_content,
+    .selection_left_content {
+        max-width: 130px;
+    }
+
+    .speaker:before {
+        width: 195px;
+        height: 157px;
+
+        background-size: contain;
+    }
+
+    .sponsor:before {
+        width: 160px;
+        height: 215px;
+
+        background-size: contain;
+    }
+
+    .stend:before {
+        width: 152px;
+        height: 148px;
+
+        background-size: contain;
+    }
+
+    .ticket:before {
+        width: 175px;
+        height: 154px;
+
+        background-size: contain;
+    }
+
+    .footer .footer_left_social {
+        max-width: 100%;
+    }
+
+    .footer .footer_right_app {
+        float: left;
+    }
+
+    .buy-ticket_date {
+        max-width: 95px;
+    }
+
+    .buy-ticket_location {
+        font-size: 18px;
+
+        padding-left: 105px;
+    }
+
+    .buy-ticket_location_city {
+        font-size: 22px;
+    }
+
+    .buy-ticket_location li a {
+        font-size: 16px;
+    }
+
+    .buy-ticket_btn {
+        font-size: 25px;
+    }
+
+    .address {
+        left: 10%;
+    }
+
+    .contact_wrapper-avatar {
+        max-width: 115px;
+    }
+
+    .contact_list-contact {
+        padding-left: 125px;
+    }
+
+    .contact_list-contact_links a {
+        font-size: 13px;
+    }
+
+    .contact_list-contact_links li:first-child a {
+        padding-left: 20px;
+    }
+
+    .contact_list-contact li:first-child {
+        font-size: 15px;
+    }
+
+    .contact_list-contact li {
+        font-size: 15px;
+    }
+
+    .btn-sub {
+        font-size: 17px;
+    }
+
+    .content_program_speaker_info .name {
+        font-size: 30px;
+    }
+
+    .content_program_speaker_info .biography {
+        font-size: 18px;
+
+        margin-top: 10px;
+        margin-right: 20px;
+    }
+
+    .content_program_speaker_info .presentation {
+        font-size: 18px;
+    }
+
+    .content_program_speaker_info li {
+        font-size: 18px;
+    }
+
+    .content_program_speaker_info .professional {
+        font-size: 20px;
+    }
+
+    .write-articles .advertising_price {
+        font-size: 44px;
+    }
+
+    .photo_wrapper-images_album p:first-child {
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 991px) {
+    .header {
+        line-height: 1;
+
+        position: relative;
+        z-index: 1041;
+
+        padding: 15px 0 10px;
+
+        border-bottom: 1px solid #e4e4e4;
+    }
+
+    .header_nav_list {
+        line-height: 2;
+
+        width: 100%;
+
+        text-align: center;
+
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-flow: column;
+            -ms-flex-flow: column;
+                flex-flow: column;
+    }
+
+    .header_nav_list li {
+        margin-right: 0;
+    }
+
+    .header_nav_list li a {
+        text-transform: uppercase;
+
+        border: none;
+    }
+
+    .header_nav_list li a:hover {
+        color: #d31017;
+        border-bottom: none;
+    }
+
+    .header .hamburger {
+        position: relative;
+
+        display: block;
+        float: right;
+    }
+
+    .header_nav {
+        position: absolute;
+        top: 116px;
+        left: 0;
+
+        display: none;
+        float: none;
+
+        width: 100%;
+
+        background-color: #fff;
+    }
+
+    .header .hamburger:focus {
+        outline: none;
+    }
+
+    .menu-active {
+        z-index: 1041;
+
+        display: block;
+    }
+
+    .header_language {
+        margin-right: 30px;
+        padding: 15px 0;
+    }
+
+    .buy-ticket_date {
+        max-width: 80px;
+    }
+
+    .buy-ticket_location {
+        font-size: 16px;
+
+        padding-left: 90px;
+    }
+
+    .buy-ticket_location_city {
+        font-size: 16px;
+    }
+
+    .buy-ticket_location li a {
+        font-size: 12px;
+    }
+
+    .buy-ticket_date li {
+        font-size: 30px;
+
+        padding: 10px 0;
+    }
+
+    .buy-ticket_btn {
+        font-size: 20px;
+    }
+
+    .sponsor:before {
+        bottom: 0;
+
+        width: 95px;
+        height: 110px;
+
+        background-size: cover;
+    }
+
+    .stend:before,
+    .speaker:before {
+        bottom: 0;
+
+        width: 130px;
+        height: 100px;
+
+        background-size: contain;
+    }
+
+    .ticket:before {
+        bottom: 0;
+
+        width: 100px;
+        height: 90px;
+
+        background-size: contain;
+    }
+
+    .selection_left_content_title {
+        font-size: 19px;
+    }
+
+    .selection_left_content_count {
+        font-size: 22px;
+        line-height: 1;
+
+        margin: 0;
+    }
+
+    .selection_left_content {
+        max-width: 115px;
+    }
+
+    .selection_left {
+        padding: 20px 10px 20px 0;
+    }
+
+    .selection_right_content_title {
+        font-size: 19px;
+    }
+
+    .selection_right_content_count {
+        font-size: 22px;
+        line-height: 1;
+
+        margin: 0;
+    }
+
+    .selection_right_content {
+        max-width: 115px;
+    }
+
+    .selection_right {
+        padding: 20px 0 20px 20px;
+    }
+
+    .selection_menu li a {
+        font-size: 18px;
+
+        padding: 20px 0 20px 60px;
+    }
+
+    .square {
+        width: 50px;
+    }
+
+    .content_form {
+        padding: 20px 15px 30px;
+    }
+
+    .content_form .form-control {
+        height: 40px;
+    }
+
+    .title {
+        font-size: 18px;
+    }
+
+    .content_news-right_block_content a {
+        font-size: 20px;
+    }
+
+    .content_news-right_block_content p {
+        font-size: 15px;
+    }
+
+    .content_news-left_block_images {
+        max-width: 90px;
+    }
+
+    .content_news-left_block_content {
+        padding-left: 100px;
+    }
+
+    .content_news-left_block_content a {
+        font-size: 16px;
+    }
+
+    .date {
+        font-size: 16px;
+    }
+
+    .pagination > li > a,
+    .pagination > li > span {
+        font-size: 20px;
+    }
+
+    .content_form-right_title {
+        margin-bottom: 20px;
+    }
+
+    .btn-sub {
+        font-size: 14px;
+    }
+
+    .address_list_date li:first-child {
+        font-size: 18px;
+    }
+
+    .address_list_location li:last-child {
+        font-size: 18px;
+    }
+
+    .address_list_date li:last-child {
+        font-size: 18px;
+    }
+
+    .contact-page .contact_list-contact_links li:first-child a {
+        font-size: 18px;
+    }
+
+    .contact-page .contact_list-contact li a {
+        font-size: 18px;
+    }
+
+    .contact-page .contact_wrapper-avatar {
+        max-width: 180px;
+    }
+
+    .contact-page .contact_list-contact {
+        padding-left: 195px;
+    }
+
+    .contact-page .contact_list-contact li:first-child {
+        font-size: 20px;
+    }
+
+    .contact-page .contact_list-contact li {
+        font-size: 16px;
+    }
+
+    .contact-page .contact_list-contact_links {
+        margin-top: 25px;
+    }
+
+    .content_program_speaker_info .name {
+        font-size: 22px;
+    }
+
+    .content_program_speaker_info .professional {
+        font-size: 15px;
+    }
+
+    .content_program_speaker_info .biography {
+        font-size: 15px;
+
+        margin-right: 10px;
+        margin-bottom: 20px;
+    }
+
+    .content_program_speaker_info .biography:before {
+        right: -8px;
+    }
+
+    .content_program_speaker_info .presentation {
+        font-size: 15px;
+    }
+
+    .content_program_speaker {
+        padding: 20px 0 20px 15px;
+    }
+
+    .content_program_speaker_avatar .wrapper-avatar {
+        max-width: 125px;
+    }
+
+    .content_program_speaker_info {
+        padding-left: 135px;
+    }
+
+    .content_program_speaker_info li {
+        font-size: 15px;
+    }
+
+    .content_program_speaker_avatar .wrapper-avatar {
+        float: none;
+    }
+
+    .content_program_speaker_avatar {
+        float: none;
+    }
+
+    .content_program_speaker_info {
+        padding-left: 0;
+    }
+
+    .speaker-page .content_program_speaker_avatar {
+        float: left;
+    }
+
+    .speaker-page .content_program_speaker_info {
+        padding-left: 135px;
+    }
+
+    .photo_wrapper-images_album p:first-child {
+        font-size: 12px;
+    }
+
+    .photo_wrapper-images_album p {
+        font-size: 12px;
+    }
+
+    .center_content {
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 767px) {
+    .header_language {
+        margin-right: 0;
+    }
+
+    .footer {
+        padding-bottom: 35px;
+
+        text-align: center;
+    }
+
+    .footer_left_social_social {
+        -webkit-box-pack: center;
+        -webkit-justify-content: center;
+        -ms-flex-pack: center;
+                justify-content: center;
+    }
+
+    .footer_left_social {
+        float: none;
+    }
+
+    .footer .footer_right_app {
+        float: none;
+    }
+
+    .buy-ticket_btn {
+        font-size: 16px;
+
+        padding: 20px 0;
+    }
+
+    .flex-container-xs {
+        display: -webkit-flex;
+        display:    -moz-flex;
+        display:     -ms-flex;
+        display:      -o-flex;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display:         flex;
+
+        width: 100%;
+
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -webkit-flex-flow: row nowrap;
+            -ms-flex-flow: row nowrap;
+                flex-flow: row nowrap;
+    }
+
+    .buy-ticket_buy {
+        display: -webkit-flex;
+        display:    -moz-flex;
+        display:     -ms-flex;
+        display:      -o-flex;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display:         flex;
+
+        height: 100%;
+
+        -webkit-box-pack: center;
+        -webkit-justify-content: center;
+        -ms-flex-pack: center;
+                justify-content: center;
+        -webkit-box-align: center;
+        -webkit-align-items: center;
+        -ms-flex-align: center;
+                align-items: center;
+    }
+
+    .padding-right {
+        padding-right: 15px;
+    }
+
+    .padding-left {
+        padding-left: 15px;
+    }
+
+    .col-xss-12 {
+        width: 100%;
+        max-width: 320px;
+        margin: auto;
+        padding: 0 15px;
+    }
+
+    .contact .flex-container {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-flow: column;
+            -ms-flex-flow: column;
+                flex-flow: column;
+    }
+
+    .contact .flex-container:before {
+        display: none;
+    }
+
+    .contact .flex-container .contact_margin {
+        margin-bottom: 30px;
+    }
+
+    .contact .flex-container .contact_margin:last-child {
+        margin-bottom: 00px;
+    }
+
+    .content_news-right_block_content p {
+        display: none;
+    }
+
+    .content_news-right_block_content a {
+        font-size: 15px;
+    }
+
+    .content_news-right_block_images {
+        max-width: 90px;
+    }
+
+    .content_news-right_block_content {
+        padding-left: 100px;
+    }
+
+    .flex-form {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -webkit-flex-flow: row wrap;
+            -ms-flex-flow: row wrap;
+                flex-flow: row wrap;
+    }
+
+    .address {
+        left: 50%;
+
+        max-width: 290px;
+
+        -webkit-transform: translateX(-50%);
+            -ms-transform: translateX(-50%);
+                transform: translateX(-50%);
+    }
+
+    .button-xs {
+        display: inline-block;
+
+        width: 100%;
+        margin-top: 20px;
+
+        text-align: center;
+    }
+
+    .partner-sponsor .btn-sub {
+        width: 100%;
+        max-width: 215px;
+        margin: auto;
+    }
+
+    .center_content_share {
+        -webkit-box-pack: start;
+        -webkit-justify-content: flex-start;
+        -ms-flex-pack: start;
+                justify-content: flex-start;
+    }
+
+    .margin-xs-images {
+        margin-bottom: 10px;
+    }
+
+    .btn-registration {
+        font-size: 15px;
+    }
+
+    .contact-page .contact_wrapper-avatar {
+        float: none;
+
+        margin: 0 0 10px;
+    }
+
+    .contact-page .contact_list-contact {
+        padding-left: 0;
+    }
+
+    .contact-page .contact_list-contact li {
+        margin-bottom: 10px;
+    }
+
+    .contact-page .contact-page_location .contact-page_location-title {
+        font-size: 24px;
+
+        margin-bottom: 10px;
+    }
+
+    .nav > li > a {
+        font-size: 15px;
+
+        padding: 0 5px;
+    }
+
+    .nav-tabs > li.active > a,
+    .nav-tabs > li.active > a:focus,
+    .nav-tabs > li.active > a:hover {
+        font-size: 15px;
+
+        padding: 0 5px;
+    }
+
+    .pager a {
+        font-size: 15px;
+    }
+
+    .pager .previous a {
+        padding: 5px 0 5px 40px;
+    }
+
+    .pager .next a {
+        padding: 5px 40px 5px 0;
+    }
+
+    .pager .previous a:before,
+    .pager .next a:before {
+        width: 35px;
+        height: 35px;
+    }
+
+    .partner-sponsor_list_wrapper-images {
+        width: 100%;
+        max-width: 180px;
+        margin: auto;
+    }
+
+    .slick-slider {
+        text-align: center;
+    }
+
+    .content_program_start {
+        padding: 30px 15px 30px 0;
+    }
+
+    .content_program_date .day {
+        padding: 10px 20px;
+    }
+
+    .content_program_date p {
+        font-size: 36px;
+    }
+
+    .content_program_time p {
+        font-size: 25px;
+    }
+
+    .content_program_speaker_info .presentation {
+        font-size: 13px;
+    }
+
+    .content_program_speaker_info .biography {
+        font-size: 13px;
+    }
+
+    .dashed {
+        border: transparent;
+    }
+
+    .write-articles .slick-prev {
+        z-index: 2;
+        left: 0;
+
+        width: 12px;
+        height: 20px;
+
+        background: url('/images/main/arrow-art1.png') no-repeat center;
+    }
+
+    .write-articles .slick-next {
+        z-index: 2;
+        right: 0;
+
+        width: 12px;
+        height: 20px;
+
+        background: url('/images/main/arrow-art.png') no-repeat center;
+    }
+
+    .write-articles .slick-prev:before,
+    .write-articles .slick-next:before {
+        display: none;
+    }
+
+    .speaker-page .content_program_speaker_avatar {
+        float: none;
+    }
+
+    .speaker-page .content_program_speaker_info {
+        padding-left: 0;
+    }
+
+    .footer-page {
+        margin-top: -800px;
+        padding-top: 820px;
+    }
+
+    .pull-right {
+        float: none !important;
+    }
+
+    .breadcrumb {
+        margin-top: -20px;
+        padding-left: 20px;
+    }
+
+    .hide-menu-xs {
+        display: none;
+    }
+
+    .center {
+        padding-top: 0;
+    }
+}
+
+/*# sourceMappingURL=media.css.map */
