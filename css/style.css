@@ -1535,7 +1535,7 @@ a:focus {
 }
 
 .contact {
-    padding: 25px 0;
+    padding: 0px 0;
 
     background-color: #c41b26;
 }
@@ -1561,6 +1561,7 @@ a:focus {
     border-right: 25px solid transparent;
     border-bottom: 25px solid #c41b26;
     border-left: 25px solid transparent;
+    display: none;
 }
 
 .contact_wrapper-avatar {
@@ -1578,7 +1579,7 @@ a:focus {
     font-size: 17px;
     font-weight: 700;
 
-    color: black;
+    color: #fff;
 }
 
 .contact_list-contact li:first-child {
